@@ -1,0 +1,1001 @@
+100 1000
+call down 15 0
+call up 25 1
+call up 15 1
+go 32 1
+call down 68 2
+call up 74 2
+go 14 3
+go 88 3
+call up 76 3
+go 65 4
+go 33 5
+go 23 5
+go 8 5
+call up 94 6
+call down 71 6
+go 100 6
+go 79 7
+go 31 7
+call down 62 7
+call down 62 8
+go 85 8
+go 10 8
+call up 92 8
+call up 4 9
+go 90 10
+go 34 10
+call up 90 10
+call up 40 10
+go 71 11
+go 76 11
+go 6 11
+go 39 11
+go 92 12
+call down 21 13
+call up 40 13
+go 47 13
+call up 93 14
+go 48 14
+call down 7 14
+go 49 15
+go 40 16
+go 20 16
+call up 19 17
+go 23 17
+go 99 18
+go 67 19
+call up 67 19
+go 48 19
+go 40 19
+go 26 19
+go 59 20
+call up 23 20
+go 3 20
+go 22 20
+call up 26 21
+call up 43 21
+go 71 21
+call down 32 21
+call up 60 21
+call down 73 22
+go 50 23
+go 71 23
+go 35 24
+call down 8 24
+call up 50 24
+call up 5 24
+call up 26 24
+call down 100 24
+call up 91 24
+go 67 24
+call down 26 24
+call down 99 25
+go 76 25
+call down 75 26
+call down 1 26
+go 13 26
+go 24 26
+go 39 27
+go 68 28
+go 56 28
+go 73 29
+call down 34 29
+call down 13 30
+call up 41 31
+go 82 32
+call down 31 33
+go 57 33
+go 78 33
+go 96 33
+go 34 34
+go 96 35
+go 16 35
+go 7 35
+go 29 36
+call down 42 37
+call down 92 38
+call up 47 38
+call down 79 38
+call down 100 38
+go 15 38
+go 12 38
+go 100 38
+call up 80 38
+go 12 39
+call down 9 39
+call down 43 39
+call up 55 39
+call up 12 39
+call up 85 39
+call down 42 40
+go 85 40
+go 71 40
+go 83 41
+call up 3 41
+call down 60 42
+go 76 43
+go 24 43
+call up 80 44
+call up 58 45
+call down 57 45
+go 90 45
+call up 11 45
+go 53 45
+go 92 45
+call up 80 45
+go 64 45
+call up 73 46
+go 60 47
+call up 98 47
+go 34 48
+go 6 48
+go 74 49
+go 95 50
+call up 25 50
+call down 25 51
+call down 48 51
+go 59 52
+go 100 52
+call up 18 53
+go 29 53
+call down 41 53
+go 57 53
+call down 39 54
+go 13 54
+call up 65 54
+go 21 54
+call up 6 54
+go 43 54
+call up 88 54
+call up 36 54
+call down 58 54
+go 2 55
+go 77 55
+call down 55 56
+go 19 57
+call down 50 57
+go 57 58
+go 48 59
+call down 56 59
+go 25 59
+go 50 59
+go 20 59
+call up 8 59
+call down 95 59
+go 79 59
+call up 26 59
+go 30 60
+go 25 61
+go 2 61
+call up 64 61
+call up 41 62
+go 36 62
+go 48 62
+go 4 63
+go 59 64
+go 92 64
+call down 38 65
+go 18 65
+go 44 65
+go 100 65
+go 86 65
+call up 50 65
+call up 56 66
+call down 50 66
+go 58 66
+call up 28 66
+call up 33 67
+go 33 68
+go 43 68
+call down 67 68
+go 22 69
+call down 54 69
+go 6 70
+call up 81 71
+call down 8 72
+call up 22 72
+call up 67 73
+call down 54 73
+call up 10 73
+call down 34 73
+go 90 73
+go 86 74
+go 4 74
+go 20 75
+go 68 76
+go 1 76
+call up 39 77
+go 84 78
+go 84 78
+call up 59 78
+go 12 78
+go 17 78
+go 71 78
+go 25 79
+call up 46 79
+go 10 80
+go 13 80
+call up 34 80
+go 90 80
+go 33 80
+go 34 80
+call up 63 80
+call up 37 81
+call up 16 81
+go 1 82
+call up 85 83
+call down 22 83
+call down 56 83
+go 72 84
+call down 95 84
+call down 83 85
+call down 25 85
+go 92 85
+go 25 85
+call up 4 85
+go 61 85
+go 85 85
+go 70 85
+go 100 85
+call down 24 85
+call up 76 85
+go 95 86
+go 13 87
+call down 59 87
+call down 18 88
+call up 94 89
+go 39 90
+call down 94 90
+call down 42 90
+go 53 90
+call down 42 91
+call up 41 91
+go 90 91
+call up 5 92
+call down 16 93
+call down 72 93
+go 59 93
+call down 8 93
+go 63 93
+go 32 93
+go 75 93
+go 27 93
+go 7 93
+call up 40 93
+go 16 94
+go 89 95
+call up 37 95
+call down 46 95
+call down 81 95
+go 85 96
+go 86 97
+go 73 97
+go 29 98
+go 44 99
+call up 64 100
+call down 19 100
+call up 39 100
+call down 71 100
+call down 26 101
+call up 47 101
+go 92 102
+go 36 102
+go 60 102
+go 13 102
+call down 48 102
+call down 40 102
+go 40 102
+go 32 103
+call up 67 103
+call down 13 103
+call up 24 104
+call up 15 104
+call down 23 105
+call down 41 105
+call down 14 106
+call up 65 107
+go 25 107
+call up 88 107
+call up 89 107
+call down 14 108
+call up 81 108
+go 13 109
+call down 61 110
+go 10 110
+go 49 110
+go 98 110
+go 3 110
+go 93 111
+go 63 111
+go 34 111
+call down 71 111
+call up 74 111
+go 4 111
+call up 51 111
+call down 94 111
+go 30 111
+go 70 111
+go 14 112
+go 30 113
+call up 97 113
+go 55 114
+call up 37 114
+go 23 114
+go 14 115
+go 30 116
+call up 46 116
+go 7 117
+go 90 117
+go 38 117
+go 67 117
+go 39 117
+go 9 117
+call down 98 117
+call up 61 117
+call down 13 118
+go 13 119
+call down 47 119
+call up 15 120
+go 59 120
+go 19 121
+call down 72 121
+go 12 121
+go 67 121
+go 11 121
+go 10 121
+go 35 122
+call down 10 122
+go 69 123
+go 10 124
+call down 88 124
+call down 61 124
+call down 83 124
+call down 27 124
+call up 36 124
+call down 96 125
+call down 36 125
+call down 27 125
+call up 79 125
+go 90 125
+go 44 125
+go 80 125
+go 38 125
+go 40 125
+call up 79 126
+go 95 127
+call up 86 128
+go 31 128
+go 64 129
+call up 24 129
+call up 5 130
+call down 66 130
+go 53 131
+go 1 131
+call down 73 132
+call down 68 132
+go 94 132
+go 4 133
+call down 42 133
+go 66 134
+go 24 134
+call down 63 135
+call down 65 135
+go 6 135
+go 90 135
+call up 38 135
+call up 58 136
+go 67 136
+call up 83 137
+call down 4 138
+call up 70 139
+call up 4 139
+go 90 139
+go 100 139
+go 82 139
+go 15 139
+go 14 140
+call up 13 140
+go 34 141
+go 32 141
+go 73 142
+call down 14 142
+go 54 142
+go 95 143
+go 25 143
+call up 38 144
+call up 53 144
+call up 30 144
+go 58 144
+call up 9 144
+go 69 145
+call up 50 146
+go 22 146
+go 97 146
+call up 22 146
+call down 75 147
+go 92 147
+go 53 147
+call up 24 148
+call up 19 148
+go 34 148
+go 59 148
+call down 39 148
+go 90 148
+call down 29 148
+call down 80 149
+go 96 149
+call down 41 149
+call down 47 149
+go 45 149
+go 63 150
+call down 1 150
+go 79 150
+call down 30 150
+call down 48 150
+go 56 150
+call down 57 150
+go 99 151
+go 81 151
+go 65 151
+go 19 151
+go 34 152
+call down 14 152
+go 98 153
+call down 69 153
+go 100 153
+go 16 154
+go 33 155
+go 1 156
+call down 53 156
+go 27 156
+call up 16 156
+call down 65 157
+go 78 157
+call down 30 158
+go 23 158
+go 75 158
+go 65 158
+call down 61 158
+call down 76 159
+go 44 159
+go 84 159
+call down 92 159
+go 17 159
+call down 53 159
+call down 94 159
+go 86 160
+go 89 161
+call up 78 162
+go 34 162
+call up 47 163
+call down 48 163
+call up 33 163
+call down 100 163
+call up 41 164
+call down 37 164
+call up 6 164
+go 99 164
+go 65 164
+go 87 165
+go 7 165
+go 61 165
+call up 77 165
+go 37 165
+call down 54 166
+call down 17 166
+go 33 166
+go 53 167
+go 90 167
+call up 92 167
+go 69 167
+go 18 168
+call up 24 168
+go 64 168
+call down 29 169
+call down 84 170
+call down 42 171
+go 46 171
+go 96 171
+call up 2 172
+call down 61 172
+call up 51 173
+go 62 174
+call down 82 174
+go 59 175
+go 96 176
+call up 72 176
+call down 75 176
+go 71 176
+call down 66 177
+call up 59 177
+call down 47 177
+call down 8 178
+go 20 178
+call up 44 178
+go 13 178
+call down 35 179
+go 14 180
+call up 41 181
+go 63 182
+call down 20 183
+call up 78 183
+call up 56 184
+call up 66 184
+call down 56 184
+go 65 185
+call up 89 185
+go 12 186
+go 34 186
+call down 45 187
+go 48 187
+call up 92 187
+call up 47 188
+call up 24 189
+call down 75 189
+call down 59 190
+call up 38 190
+call down 63 190
+go 22 191
+go 45 191
+go 97 191
+call down 69 191
+call up 40 191
+go 30 191
+call up 49 191
+call down 36 191
+call up 77 191
+call down 89 192
+call up 52 192
+call up 12 192
+call up 51 193
+call down 64 194
+go 69 195
+go 52 195
+call down 41 195
+call down 79 195
+call down 35 196
+go 70 196
+go 89 196
+go 87 196
+go 27 196
+call up 98 197
+call up 62 197
+call down 21 197
+call up 97 197
+call up 71 197
+call down 79 197
+call down 61 197
+call down 94 198
+go 68 198
+go 96 198
+go 33 199
+call up 25 200
+call up 44 200
+call down 11 201
+go 49 201
+call up 6 201
+go 88 201
+call down 84 201
+go 18 202
+go 26 202
+call up 84 202
+go 7 202
+go 74 202
+call up 27 202
+go 65 202
+call down 10 202
+go 97 203
+call down 28 203
+call up 19 203
+call up 2 203
+call up 20 204
+go 58 205
+call down 48 206
+go 99 206
+call up 40 206
+go 41 206
+call down 94 206
+go 93 206
+call down 78 207
+go 86 207
+go 55 207
+call up 38 208
+call down 91 208
+go 96 208
+go 57 209
+call down 100 209
+call up 36 209
+call up 62 210
+go 35 210
+go 57 211
+call up 61 211
+go 78 211
+call up 62 211
+go 96 211
+call up 35 211
+call up 49 212
+go 92 212
+go 21 213
+call down 80 213
+go 76 213
+call down 87 213
+go 34 213
+go 52 214
+go 60 214
+go 35 215
+go 51 215
+call up 79 216
+go 82 216
+call up 95 216
+call up 89 217
+go 99 218
+go 99 218
+go 37 218
+call up 63 219
+call up 85 219
+call down 55 219
+call up 93 219
+call down 8 219
+call up 83 219
+go 91 219
+call down 45 219
+go 30 219
+go 65 219
+go 93 220
+call up 62 220
+go 7 220
+call down 33 221
+call down 22 221
+call down 29 222
+call up 73 223
+go 49 223
+go 61 223
+go 63 223
+go 86 223
+go 53 224
+go 46 224
+go 56 224
+call up 87 225
+go 17 225
+go 69 225
+go 78 225
+go 63 226
+call up 29 227
+call up 89 227
+go 59 227
+call up 23 227
+go 7 227
+call up 38 228
+call down 32 228
+go 24 228
+go 31 228
+call up 76 228
+go 88 229
+go 25 229
+call down 91 229
+call down 9 230
+go 91 230
+go 19 231
+call down 82 231
+call up 88 231
+call down 4 232
+go 30 232
+call up 17 232
+go 4 232
+call down 62 232
+go 17 232
+go 43 233
+call up 24 233
+go 15 233
+go 47 233
+go 75 233
+go 91 234
+go 82 235
+go 20 235
+call up 49 235
+call down 85 235
+call down 32 235
+call up 44 235
+call up 99 235
+go 16 235
+call down 9 236
+call down 59 237
+call down 37 238
+call up 61 238
+go 86 238
+go 57 239
+call down 5 240
+call up 15 240
+go 31 240
+call down 1 240
+go 1 241
+go 23 242
+go 72 243
+call down 80 243
+call up 88 244
+call down 14 244
+call up 30 245
+call down 92 246
+call down 42 247
+call up 95 247
+call up 77 248
+call up 43 248
+go 85 248
+call up 74 248
+go 82 248
+call down 48 249
+go 93 250
+call down 33 251
+go 22 251
+call down 41 251
+call down 28 252
+go 86 253
+go 84 253
+call up 72 253
+go 5 254
+go 13 254
+call down 41 255
+go 14 255
+call up 50 255
+call down 6 256
+go 54 256
+call down 41 256
+go 1 256
+call down 85 256
+go 51 256
+go 45 256
+go 80 256
+go 68 257
+go 86 257
+go 19 257
+go 76 257
+go 70 257
+go 50 257
+go 67 257
+call up 62 257
+go 30 258
+go 68 258
+go 1 258
+go 23 258
+call down 53 258
+go 71 259
+call up 23 260
+go 94 260
+go 54 260
+go 92 261
+call up 28 262
+go 51 262
+call up 19 263
+call up 76 264
+call up 91 265
+go 64 266
+go 60 266
+call down 80 266
+go 70 266
+go 68 267
+call up 41 267
+go 76 267
+go 26 268
+call down 14 268
+call down 42 268
+call down 1 268
+call up 63 268
+call up 8 269
+go 14 269
+go 12 269
+call down 3 270
+go 46 270
+call up 30 270
+call down 34 271
+go 77 271
+call up 70 272
+call down 33 272
+call up 1 273
+go 93 273
+call down 40 273
+call up 43 273
+go 15 273
+go 92 274
+call up 68 275
+go 9 275
+call down 15 276
+call down 52 277
+call down 85 277
+go 95 278
+go 69 279
+go 56 280
+go 52 280
+call up 60 281
+call up 46 281
+go 93 281
+go 36 281
+go 9 281
+call up 17 281
+go 33 281
+call down 62 282
+go 48 282
+call up 19 282
+go 82 282
+call down 97 282
+go 64 283
+call down 27 283
+call down 3 283
+call down 48 284
+go 62 284
+go 4 284
+call up 95 284
+call down 62 284
+go 66 285
+go 81 286
+call up 63 286
+go 62 287
+go 62 288
+go 84 288
+call up 84 289
+go 76 290
+go 15 291
+call up 41 292
+call up 94 292
+go 38 293
+call up 19 293
+call up 57 293
+go 73 293
+go 99 293
+go 88 293
+call up 18 294
+call down 78 295
+go 5 296
+go 83 296
+go 33 296
+call down 39 296
+call down 53 296
+call up 59 297
+go 48 297
+call down 73 297
+call up 28 297
+go 27 298
+call up 66 298
+go 58 298
+call down 86 298
+call down 70 299
+call down 82 299
+go 41 299
+call down 35 299
+go 95 299
+go 83 299
+call up 28 299
+go 33 299
+call up 95 299
+call down 36 299
+go 48 299
+go 79 299
+call up 58 299
+go 14 299
+go 60 300
+call up 47 301
+call down 35 301
+call down 20 301
+call up 53 301
+call down 93 301
+go 55 301
+go 54 301
+go 3 302
+go 88 303
+call up 46 303
+call up 40 304
+go 50 305
+go 16 306
+go 71 306
+go 95 306
+call down 46 306
+go 98 306
+go 70 306
+go 69 306
+call down 20 307
+go 22 308
+go 72 308
+go 87 308
+call up 70 309
+go 27 309
+go 93 309
+go 21 309
+go 11 310
+go 21 310
+go 97 311
+call up 7 311
+call down 20 311
+go 21 312
+call down 65 313
+call down 40 314
+go 25 314
+go 90 314
+call down 69 315
+go 71 315
+go 46 315
+go 46 315
+call down 79 316
+call down 68 317
+go 92 317
+go 80 318
+call down 13 318
+call down 17 319
+call down 29 319
+go 100 319
+go 86 320
+call down 78 321
+go 54 321
+call up 30 322
+go 66 322
+go 31 322
+go 10 322
+go 74 322
+go 52 322
+call up 47 322
+go 75 323
+go 6 324
+go 99 325
+call down 56 325
+call up 47 326
+go 77 327
+call up 100 327
+go 48 328
+go 20 328
+go 66 328
+go 34 328
+call down 35 328
+go 37 328
+go 62 329
+call down 62 329
+call up 90 329
+go 61 329
+call up 41 329
+call down 35 329
+call up 34 330
+go 95 330
+call down 99 330
+go 52 330
+call up 24 330
+go 66 330
+go 41 331
+call up 90 331
+call up 79 331
+call up 78 332
+call up 27 333
+go 94 333
+call down 8 333
+call down 29 333
+call down 22 333
+call up 22 333
+go 4 334
+go 5 334
+go 11 334
+call up 85 335
+go 32 335
+call down 9 335
+go 49 335
+call down 76 335
+go 77 336
+call down 38 337
+call down 70 337
+go 55 337
+go 44 337
+call down 43 338
+go 62 338
+go 86 338
+go 22 338
+call up 91 338
+go 39 339
+call up 29 339
+go 54 340
+go 20 340
+call up 64 340
+call up 97 340
+call down 100 340
+go 16 340
+go 83 341
+call down 16 341
+call down 41 342
+call down 56 342
+call down 65 342
+go 57 343

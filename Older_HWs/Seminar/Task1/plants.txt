@@ -1,0 +1,3 @@
+Magnolia 5.3 17.2
+Ficus 7.45 12.386
+Cactus 13.3 20.4

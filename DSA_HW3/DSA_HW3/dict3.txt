@@ -1,0 +1,2 @@
+selection sort algorithm	20
+algorithm could be	10

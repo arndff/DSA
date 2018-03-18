@@ -1,0 +1,3 @@
+algorithms	5
+selection sort	10
+selection sort algorithm	30

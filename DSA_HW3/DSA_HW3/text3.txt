@@ -1,0 +1,1 @@
+the selection sort algorithm could be applied on linked lists.

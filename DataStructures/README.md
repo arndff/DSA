@@ -1,7 +1,7 @@
 # Repository contains the following data structures:
 
 * Basic **String** class implementation
-* **Vector** (DynamicArray)
+* **Vector** (Dynamic Array)
 * **Linked List**
 * **Doubly Linked List**
 * Two **Stack** implementations:

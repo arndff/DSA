@@ -184,7 +184,7 @@ void DLList<T>::removeAll()
 	while(cnt != 0)
 	{
 		--cnt;	
-		removeHead(); q
+		removeHead();
 	}
 
 	m_head = m_tail = nullptr;

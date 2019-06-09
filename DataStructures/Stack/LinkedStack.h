@@ -128,28 +128,23 @@ void LinkedStack<T>::print() const
 template <class T>
 void LinkedStack<T>::copy(const LinkedStack& rhs)
 {
-	//first, copy rhs's elements in temporary stack
-	LinkedStack tmp;
-	Node* curr = rhs.m_top;
+	if (rhs.m_top == nullptr)
+	{
+		m_top = nullptr;
+		return;
+	}
 	
-	while (curr)
+	Node* ours = new Node(rhs.m_top->m_data);
+	Node* theirs = rhs.m_top->m_next;
+	
+	while (theirs)
 	{
-		tmp.push(curr->m_data);
-		curr = curr->m_next;
+		ours->m_next = new Box(theirs->m_data);
+		ours = ours->m_next;
+		theirs = theirs->m_next;
 	}
 
-	tmp.m_size = rhs.m_size;
-
-	//then, copy tmp's elements in our stack
-	curr = tmp.m_top;
-
-	while (curr)
-	{
-		push(curr->m_data);
-		curr = curr->m_next;
-	}
-
-	m_size = tmp.m_size;
+	m_size = rhs.m_size;
 }
 
 #endif // !_LINKED_STACK_HEADER_INCLUDED_
